@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CapturePlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Intermediate\Build\Win64\x64\Capture360Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\Module.CapturePlugin.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\CaptureActor.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\CapturePlugin.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\Custom2DCaptureComp.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\HdriSphere.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\HDRI_Cube.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\MovementCharecter.cpp.obj"
+"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\Default.rc2.res"
+/OUT:"C:\Users\warlo\Documents\Unreal Projects\360_Backup\Capture360_Main\Plugins\CapturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapturePlugin\UnrealEditor-CapturePlugin.lib"

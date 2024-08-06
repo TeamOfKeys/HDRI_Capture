@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\warlo\\documents\\unreal projects\\360_capture_1s\\capture360_main\\plugins\\captureplugin\\source\\captureplugin\\private\\hdri_cube.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\warlo\\documents\\unreal projects\\360_capture_1s\\capture360_main\\intermediate\\build\\win64\\x64\\capture360editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\warlo\\documents\\unreal projects\\360_capture_1s\\capture360_main\\plugins\\captureplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\captureplugin\\definitions.captureplugin.h",
+            "c:\\users\\warlo\\documents\\unreal projects\\360_capture_1s\\capture360_main\\plugins\\captureplugin\\source\\captureplugin\\public\\hdri_cube.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\postprocesscomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\postprocesscomponent.generated.h",
+            "c:\\users\\warlo\\documents\\unreal projects\\360_capture_1s\\capture360_main\\plugins\\captureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\captureplugin\\uht\\hdri_cube.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

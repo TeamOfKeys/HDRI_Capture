@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\warlo\\documents\\unreal projects\\capture360_main\\plugins\\captureplugin\\source\\captureplugin\\private\\captureactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\warlo\\documents\\unreal projects\\capture360_main\\intermediate\\build\\win64\\x64\\capture360editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\warlo\\documents\\unreal projects\\capture360_main\\plugins\\captureplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\captureplugin\\definitions.captureplugin.h",
+            "c:\\users\\warlo\\documents\\unreal projects\\capture360_main\\plugins\\captureplugin\\source\\captureplugin\\public\\captureactor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\postprocesscomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\postprocesscomponent.generated.h",
+            "c:\\users\\warlo\\documents\\unreal projects\\capture360_main\\plugins\\captureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\captureplugin\\uht\\captureactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\moviescene\\public\\moviescenesequenceid.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\moviescene\\public\\entitysystem\\moviescenecomponentdebug.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\moviescene\\public\\entitysystem\\moviesceneentitysystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\moviescene\\public\\entitysystem\\moviesceneentityids.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviescenesequenceid.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\scenecapturecomponentcube.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\scenecapturecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\scenecapturecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\scenecapturecomponentcube.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertargetcube.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertargetcube.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
