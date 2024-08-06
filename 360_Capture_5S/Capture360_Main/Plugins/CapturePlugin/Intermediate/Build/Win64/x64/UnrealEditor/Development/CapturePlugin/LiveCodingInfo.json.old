@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CapturePlugin.cpp.obj": [
+			"CaptureActor.gen.cpp.obj",
+			"CapturePlugin.init.gen.cpp.obj",
+			"Custom2DCaptureComp.gen.cpp.obj",
+			"HdriSphere.gen.cpp.obj",
+			"MovementCharecter.gen.cpp.obj",
+			"CaptureActor.cpp.obj",
+			"CapturePlugin.cpp.obj",
+			"Custom2DCaptureComp.cpp.obj",
+			"HdriSphere.cpp.obj",
+			"MovementCharecter.cpp.obj"
+		]
+	}
+}

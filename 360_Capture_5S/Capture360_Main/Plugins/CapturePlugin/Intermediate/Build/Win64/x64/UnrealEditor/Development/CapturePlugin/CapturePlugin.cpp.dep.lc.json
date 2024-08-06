@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\warlo\\documents\\unreal projects\\capture360\\plugins\\captureplugin\\source\\captureplugin\\private\\captureplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\warlo\\documents\\unreal projects\\capture360\\intermediate\\build\\win64\\x64\\capture360editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\warlo\\documents\\unreal projects\\capture360\\plugins\\captureplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\captureplugin\\definitions.captureplugin.h",
+            "c:\\users\\warlo\\documents\\unreal projects\\capture360\\plugins\\captureplugin\\source\\captureplugin\\public\\captureplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
